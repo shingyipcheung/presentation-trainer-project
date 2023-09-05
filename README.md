@@ -1,4 +1,4 @@
-# Speech Emotion Recognition and Pitch Detection Project
+# Presentation Trainer Project
 
 ## Overview
 
